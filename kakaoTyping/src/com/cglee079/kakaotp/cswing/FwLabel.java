@@ -35,9 +35,9 @@ public class FwLabel extends JLabel {
 		if(haveItem){ 
 			String path = PathManager.characterPath;
 			this.setIcon(new ImageIcon(path + "icon_item" + ".png"));
-			this.setFont(new GameFontB(15));
+			this.setFont(new GameFontB(12));
 		} else {
-			this.setFont(new GameFontP(15));
+			this.setFont(new GameFontP(13));
 		}
 	}
 
@@ -46,9 +46,9 @@ public class FwLabel extends JLabel {
 		if(haveItem){ 
 			String path = PathManager.characterPath;
 			this.setIcon(new ImageIcon(path + "icon_item" + ".png"));
-			this.setFont(new GameFontB(15));
+			this.setFont(new GameFontB(12));
 		} else {
-			this.setFont(new GameFontP(15));
+			this.setFont(new GameFontP(13));
 		}
 		
 		this.setForeground(Color.blue);// 영단어 입력시 글자색 변경
