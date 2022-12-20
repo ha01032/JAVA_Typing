@@ -1,0 +1,788 @@
+하나의	an	0
+에 대하여	about	0
+을 가로질러	across	0
+행동하다	act	0
+영화배우	actor	0
+주소	address	0
+무서워하여	afraid	0
+뒤에	behind	0
+오후	afternoon	0
+또	again	0
+나이	age	0
+전에	ago	0
+공기	air	0
+비행기	plane	0
+공항	airport	0
+앨범	album	0
+모든	all	0
+을 따라서	along	0
+항상	always	0
+사이에	among	0
+하나의	an	0
+그리고	and	0
+화난	angry	0
+동물	animal	0
+대답	answer	0
+어떤	any	0
+아파트	apartment	1
+사과	apple	0
+팔	arm	0
+주위에	around	0
+도착하다	arrive	0
+만큼	as	0
+묻다	ask	0
+때에	at	0
+숙모	aunt	0
+가을	autumn	0
+멀리	far	0
+아기	baby	0
+뒤	back	0
+나쁜	wrong	0
+자루	bag	0
+공	ball	0
+풍선	balloon	0
+바나나	banana	0
+밴드	band	0
+은행	bank	0
+바닥	base	0
+바구니	basket	0
+목욕	bath	0
+이다	be	0
+해변	beach	0
+곰	bear	0
+아름다운	beautiful	0
+왜냐하면	because	0
+이 되다	become	0
+침대	bed	0
+앞에	before	0
+시작하다	begin	0
+뒤에	behind	0
+종	bell	0
+의 밑에	under	0
+벤치	bench	0
+의 옆에	next	2
+의 사이에	between	0
+자전거	bicycle	0
+큰	large	0
+새	bird	0
+생일	birthday	0
+검은	black	0
+비어있는	blank	0
+불다	blow	0
+파란	blue	0
+널빤지	board	0
+보트	boat	0
+몸	body	0
+책	book	0
+병	bottle	0
+주발	bowl	0
+상자	case	0
+소년	boy	0
+빵	bread	0
+깨다	break	0
+아침식사	breakfast	0
+다리	leg	0
+밝은	bright	0
+가져오다	bring	0
+형제	brother	0
+갈색의	brown	0
+솔	pine	0
+짓다	build	1
+타다	ride	1
+버스	bus	0
+바쁜	busy	1
+그러나	but	0
+버터	butter	0
+단추	button	0
+사다	buy	0
+의 옆에	next	2
+잘까요	bye	0
+케이크	cake	0
+달력	calenda	0
+를 부르다	call	0
+카메라	camera	0
+야영하다	camp	0
+할 수 있다	can	0
+양초	candle	0
+사탕	candy	0
+모자	hat	0
+수도	capital	0
+선장	captain	0
+자동차	car	0
+카드	card	0
+주의	care	0
+목공	carpenter	0
+을 나르다	carry	0
+만화	cartoon	0
+상자	case	0
+카세트테이프	cassette	0
+고양이	cat	0
+잡다	catch	0
+천장	ceiling	0
+중심	center	0
+의자	chair	0
+분필	chalk	0
+기회	chance	0
+변화다	change	1
+값싼	cheap	0
+치즈	cheese	0
+닭	chicken	0
+어린이	child	0
+젓가락	chopstick	0
+교회	church	0
+원	circle	0
+도시	city	0
+학급	class	0
+급우	classmate	0
+깨끗한	clean	0
+나무	wood	0
+시계	clock	0
+닫다	close	0
+옷	clothes	0
+구름	cloud	0
+클럽	club	0
+코트	coat	0
+커피	coffee	0
+동전	coin	1
+추운	cold	0
+빛깔	color	0
+오다	come	0
+만화책	comic book	0
+컴퓨터	computer	0
+요리사	cook	0
+시원한	cool	0
+그대로 옮겨 쓰다	copy	0
+구석	corner	0
+세다	count	0
+나라	country	0
+과목	course	0
+사촌	cousin	0
+가리다	cover	0
+암소	cow	0
+크레용	crayon	0
+크림	cream	0
+건너다	cross	0
+울다	cry	0
+컵	cup	0
+커튼	curtain	0
+자르다	cut	0
+귀여운	cute	0
+아빠	dad	0
+춤추다	dance	0
+위험	danger	0
+캄캄한	dark	0
+날짜	date	0
+딸	daughter	0
+낮	day	0
+조용한	soft	0
+깊은	deep	0
+사슴	deer	0
+책상	desk	0
+전화 걸다	dial	0
+일기	diary	0
+사전	dictionary	0
+죽다	die	0
+저녁식사	supper	0
+더러운	dirty	0
+접시	dish	0
+을 하다	do	0
+의사	doctor	0
+개	dog	0
+인형	doll	1
+달러	dollar	0
+돌고래	dolphin	0
+문	gate	0
+아래로	down	0
+을 그리다	draw	0
+꿈	dream	1
+드레스	dress	0
+마시다	drink	0
+운전하다	drive	0
+방울	drop	0
+북	drum	0
+마른	dry	0
+오리	duck	0
+지구	earth	0
+동쪽	east	0
+메아리	echo	0
+빈	empty	0
+끝	point	0
+엔진	engine	0
+을 즐기다	enjoy	0
+충분히	enough	0
+저녁	evening	0
+매	every	0
+보기	example	0
+뛰어난	excellent	0
+흥분시키다	excite	0
+용서하다	excuse	0
+운동	sport	0
+눈	snow	0
+얼굴	face	0
+사실	fact	0
+공평한	fair	0
+떨어지다	fall	0
+가족	family	0
+유명한	famous	0
+멀리	far	0
+농장	farm	0
+빠른	quick	0
+뚱뚱한	fat	0
+아버지	father	0
+을 느끼다	feel	0
+거의 없는	few	0
+밭	field	0
+싸우다	fight	0
+을 채우다	fill	0
+필름	film	0
+을 발견하다	find	0
+좋은	nice	0
+손가락	finger	0
+을 끝내다	finish	0
+불	fire	0
+물고기	fish	0
+고치다	fix	0
+기	flag	0
+마루	floor	0
+꽃	flower	0
+날다	fly	0
+을 따르다	follow	0
+음식	food	0
+바보	fool	0
+발	foot	1
+동안	for	0
+을 잊다	forget	0
+식탁용 포크	fork	0
+무료로 주는	free	0
+신선한	fresh	1
+친구	friend	0
+에서	from	0
+앞	front	0
+과일	fruit	0
+가득 찬	full	0
+재미	fun	0
+놀이	game	0
+정원	garden	0
+휘발유	gas	0
+문	gate	0
+온화한	gentle	0
+을 얻다	get	0
+소녀	girl	1
+을 주다	give	0
+즐거운	glad	0
+유리	glass	0
+장갑	glove	0
+가다	go	0
+신	god	0
+황금	gold	0
+착한	good	0
+할머니	grandma	0
+포도	grape	0
+풀	grass	0
+회색	gray	0
+큰	large	0
+녹색	green	0
+땅	ground	0
+모임	group	0
+자라다	grow	0
+기타	guitar	0
+머리카락	hair	0
+반	half	0
+공회당	hall	0
+햄버거	hamburger	0
+손	hand	0
+을 다루다	handle	0
+잘생긴	handsome	0
+일어나다	happen	0
+행복한	happy	0
+어려운	hard	2
+모자	hat	0
+미워하다	hate	0
+가지다	have	0
+그가	he	0
+머리	head	0
+이 들리다	hear	0
+심장	heart	0
+무거운	heavy	0
+안녕	hi	0
+을 돕다	help	0
+암탉	hen	0
+여기에서	here	0
+안녕	hi	0
+숨다	hide	0
+높은	high	0
+하이킹	hiking	0
+언덕	hill	0
+을 치다	hit	0
+을 들다	hold	0
+구멍	hole	1
+공휴일	holiday	0
+가정	home	0
+희망	hope	0
+말	horse	0
+호스	hose	0
+병원	hospital	0
+뜨거운	hot	0
+호텔	hotel	0
+시간	time	0
+집	house	0
+어떻게	how	0
+백	hundred	0
+배고픈	hungry	0
+서두르다	hurry	0
+아프다	hurt	0
+얼음	ice	0
+생각	idea	0
+병든	sick	1
+안에	in	0
+잉크	ink	0
+관심	interest	0
+안으로	into	0
+를 소개하다	introduce	0
+섬	island	0
+그것	it	0
+제트기	jet	0
+일	work	0
+참가하다	join	0
+주스	juice	0
+뛰다	jump	0
+밀림	jungle	0
+바로	just	0
+을 지니다	keep	0
+열쇠	key	0
+차다	kick	0
+어린아이	kid	0
+죽이다	kill	0
+종류	kind	2
+왕	king	0
+부엌	kitchen	0
+무릎	knee	0
+칼	knife	0
+두드리다	knock	0
+를 알다	know	0
+숙녀	lady	0
+호수	lake	0
+등	lamp	0
+육지	land	0
+큰	large	0
+마지막의	last	0
+늦은	late	0
+웃다	laugh	0
+이끌다	lead	0
+나뭇잎	leaf	0
+을 배우다	learn	0
+떠나다	leave	0
+왼쪽	left	0
+다리	leg	0
+과	lesson	0
+하게하다	let	0
+글자	letter	0
+도서관	library	0
+거짓말	lie	0
+빛	light	0
+좋아하다	like	0
+선	line	0
+사자	lion	0
+입술	lip	0
+표	ticket	0
+듣다	listen	0
+긴	long	0
+찾다	look	0
+잃다	lose	1
+많음	lot	0
+소리가 큰	loud	0
+사랑하다	love	0
+낮은	low	0
+운	luck	0
+점심	lunch	0
+을 만들다	make	0
+남자	man	0
+많은	much	0
+지도	map	0
+행진하다	march	0
+시장	market	0
+결혼하다	marry	0
+일	work	0
+해도 좋다	may	0
+고기	meat	1
+메달	medal	0
+만나다	meet	0
+멜론	melon	0
+미터	meter	0
+중간	middle	0
+우유	milk	0
+백만	million	0
+분	minute	0
+거울	mirror	0
+양	sheep	0
+모텔	model	0
+엄마	mom	0
+돈	money	0
+원숭이	monkey	0
+달	moon	1
+달	moon	1
+아침	morning	0
+어머니	mother	0
+산	mountain	0
+입	mouth	0
+움직이다	move	0
+영화	movie	0
+씨	Mr.	0
+씨 부인	Mrs.	0
+많은	much	0
+음악	music	0
+해야 한다	must	1
+목	neck	0
+가 필요하다	need	0
+새로운	new	0
+뉴스	news	0
+의 옆에	next	2
+좋은	nice	0
+밤	night	0
+아니오	no	0
+소음	noise	0
+북쪽	north	0
+코	nose	0
+아니다	not	0
+짧은 기록	note	0
+지금	now	0
+수	number	0
+간호사	nurse	0
+시	o'clock	0
+의	of	1
+벗고	off	0
+사무실	office	0
+흔히	often	0
+아	oh	0
+기름	oil	0
+좋아요	OK	0
+낡은	old	0
+위에	over	0
+이전에	once	0
+을 열다	open	0
+또는	or	0
+오렌지	orange	0
+다른	other	0
+밖에	out	0
+위에	over	0
+페이지	page	0
+페인트	paint	0
+한 쌍	pair	0
+바지	pants	0
+종이	sheet	0
+용서	pardon	0
+공원	park	0
+파티	party	0
+지나다	pass	0
+지불하다	pay	0
+평화	peace	0
+배	ship	0
+펜	pen	0
+연필	pencil	0
+사람들	people	0
+피아노	piano	0
+꺾다	pick	0
+소풍	picnic	0
+그림	picture	0
+단편	piece	0
+돼지	pig	0
+조종사	pilot	0
+핀	pin	0
+솔	pine	0
+연분홍색	pink	0
+관	pipe	0
+장소	place	0
+계획	plan	0
+비행기	plane	0
+식물	plant	0
+놀다	play	0
+제발	please	0
+호주머니	pocket	0
+끝	point	0
+경찰	police	0
+수영장	pool	0
+가난한	poor	0
+우편물을 부치다	post	0
+포스터	poster	0
+감자	potato	0
+연습	practice	0
+현재	present	0
+예쁜	pretty	0
+인쇄	print	0
+문제	problem	0
+을 끌다	pull	1
+을 밀다	push	0
+을 놓다	put	0
+왕비	queen	0
+물음	question	0
+빠른	quick	0
+조용한	soft	0
+라디오	radio	0
+비	rain	0
+무지개	rainbow	0
+읽다	read	0
+준비된	ready	0
+진짜의	real	0
+기록	record	0
+빨간	red	0
+기억하다	remember	0
+되풀이하다	repeat	0
+휴식	rest	0
+식당	restaurant	0
+로 돌아가다	return	0
+리본	ribbon	0
+쌀	rice	0
+돈 많은	rich	0
+타다	ride	1
+오른쪽	right	0
+반지	ring	0
+강	river	0
+길	way	0
+로봇	robot	0
+바위	rock	0
+로켓	rocket	0
+를 굴리다	roll	0
+지붕	roof	0
+방	room	0
+장미	rose	0
+둥근	round	0
+자	ruler	0
+달리다	run	0
+같은 것	same	0
+모래	sand	0
+말하다	tell	0
+학교	school	0
+가위	scissors	0
+점수	score	0
+바다	sea	0
+계절	season	0
+자리	seat	0
+보다	than	0
+을 팔다	sell	0
+을 보내다	send	0
+서비스	service	0
+을 두다	set	0
+하겠다	shall	0
+모양	shape	0
+그녀는	she	0
+양	sheep	0
+종이	sheet	0
+배	ship	0
+셔츠	shirt	0
+신발	shoe	0
+쏘다	shoot	0
+상점	shop	0
+짧은	short	0
+어깨	shoulder	0
+외치다	shout	0
+보여주다	show	0
+소나기	shower	0
+을 닫다	shut	0
+병든	sick	1
+옆	side	0
+시력	sight	0
+표지	sign	0
+은색의	silver	0
+노래하다	sing	0
+님	sir	0
+여동생	sister	0
+앉다	sit	0
+크기	size	0
+스케이트	skate	0
+치마	skirt	0
+하늘	sky	0
+잠	sleep	0
+미끄러지다	slide	0
+느린	slow	0
+냄새	smell	0
+미소	smile	0
+연기	smoke	0
+눈	snow	0
+그렇게	so	0
+비누	soap	1
+축구	soccer	0
+양말	sock	0
+조용한	soft	0
+얼마간의	some	0
+아들	son	0
+노래	song	0
+곧	soon	0
+가엾은	sorry	0
+소리	sound	0
+수프	soup	0
+남쪽	south	0
+우주	space	0
+말하다	tell	0
+속도	speed	0
+쓰다	write	0
+쓰다	write	0
+숟가락	spoon	0
+운동	sport	0
+봄	spring	0
+정사각형	square	0
+계단	stair	0
+우표	stamp	0
+서다	stand	0
+별	star	0
+출발하다	start	0
+정거장	station	0
+남다	stay	0
+증기	steam	0
+걸음	step	0
+막대기	stick	0
+돌	stone	0
+멈추다	stop	0
+가게	store	0
+폭풍우	storm	0
+이야기	story	0
+난로	stove	0
+곧은	straight	0
+이상한	strange	0
+딸기	strawberry	0
+거리	street	0
+힘센	strong	0
+학생	student	0
+공부하다	study	0
+어리석은	stupid	0
+지하철	subway	0
+설탕	sugar	0
+여름	summer	0
+태양	sun	0
+슈퍼마켓	supermarket	0
+저녁식사	supper	0
+을 확신하는	sure	0
+놀람	surprise	0
+스웨터	sweater	0
+달콤한	sweet	0
+헤엄치다	swim	0
+그네	swing	0
+스위치	switch	0
+식탁	table	0
+가져가다	take	0
+말하다	tell	0
+키가 큰	tall	0
+을 붙이다	tape	1
+을 맛보다	taste	0
+택시	taxi	0
+차	tea	0
+가르치다	teach	0
+팀	team	0
+전화기	telephone	0
+텔레비전	television	0
+말하다	tell	0
+사원	temple	0
+정구	tennis	0
+테스트	test	0
+보다	than	0
+에게 고맙다고 하다	thank	0
+저것	that	0
+그	the	0
+그때	then	0
+그 곳에	there	0
+그들	they	0
+두꺼운	thick	0
+얇은	thin	0
+물건	thing	0
+생각하다	think	0
+목마른	thirsty	0
+이	tooth	0
+천	thousand	0
+을 꿰뚫어	through	0
+던지다	throw	0
+천둥	thunder	0
+표	ticket	0
+을 묶다	tie	0
+호랑이	tiger	0
+할 때까지	till	0
+시간	time	0
+피곤한	tired	0
+오늘	today	0
+함께	together	0
+토마토	tomato	0
+내일	tomorrow	0
+오늘 밤	tonight	0
+또한	too	0
+이	tooth	0
+꼭대기	top	0
+만지다	touch	0
+소도시	town	0
+장난감	toy	0
+기차	train	0
+여행하다	travel	0
+나무	wood	0
+여행	trip	0
+트럭	truck	0
+진실의	TRUE	0
+을 해보다	try	0
+튤립	tulip	0
+돌다	turn	0
+두 번	twice	1
+우산	umbrella	0
+아저씨	uncle	0
+의 밑에	under	0
+이해하다	understand	1
+까지	until	0
+위로	up	0
+을 사용하다	use	0
+늘 하는	usual	0
+방학	vacation	0
+채소	vegetable	0
+아주	very	0
+비디오	video	0
+마을	village	0
+바이올린	violin	0
+방문하다	visit	0
+기다리다	wait	0
+잠이 깨다	wake	0
+걷기	walk	0
+벽	wall	0
+을 원하다	want	0
+전쟁	war	0
+따뜻한	warm	0
+을 씻다	wash	0
+낭비하다	waste	0
+지켜보다	watch	0
+물	water	0
+길	way	0
+우리	we	0
+약한	weak	0
+입다	wear	0
+날씨	weather	0
+주	week	0
+환영하다	welcome	0
+잘	well	0
+서쪽	west	0
+젖은	wet	0
+무엇	what	0
+할 때	when	0
+곳	where	0
+어느 것	which	0
+흰색의	white	0
+누구	who	0
+왜	why	0
+폭이 넓은	wide	0
+일 것이다	will	0
+이기다	win	0
+바람	wind	0
+창문	window	0
+날개	wing	1
+겨울	winter	0
+와 함께	with	0
+여자	woman	0
+놀랄 만한 일	wonder	0
+나무	wood	0
+단어	word	0
+일	work	0
+세계	world	0
+쓰다	write	0
+나쁜	wrong	0
+네	yes	0
+해	year	1
+노란색	yellow	0
+네	yes	0
+어제	yesterday	0
+아직	yet	0
+너	you	0
+젊은	young	0
+영	zero	0
+동물원	zoo	0

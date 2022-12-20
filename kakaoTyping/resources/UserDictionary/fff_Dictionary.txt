@@ -1,0 +1,29 @@
+기본자료형	char byte short int long float double boolean	0
+조건문	if(){}else if{}else{}	0
+반복문	while(){} for(;;){}	0
+메서드	접근제어자 (static) 반환형 함수명(매개변수){~return result;}	0
+인스턴스 생성	Student student = new Student();	0
+접근 제어자	public protected default private	0
+변수	지역변수 멤버변수 static변수	0
+싱글톤패턴	public static A instance = new A();	0
+배열	Student[] student = new Student[10];	0
+향상된for문	for(String lang:strArray){syso(lang);}	0
+ArrayList	ArrayList<Book> Library = new ArrayList<Book>();	0
+상속	class Human extends Mammal {}	0
+다형성	public void moveAnimal(Animal animal)	0
+다운캐스팅	if(hum instanceof Human){Human human = (Human)hum;}	0
+추상클래스	abstract int add(int x)	0
+템플릿메서드	final public void run() {startCar(); turnoff();}	0
+final	상수 재정의x 상속x	0
+인터페이스	public interface Calc{} public class Cal implements Calc{}	0
+Object 클래스	toString() equals() hashCode() clone() 재정의	0
+Class 클래스	getClass() forname("") newInstance()	0
+제네릭 클래스	public class GenericPrinter<T extends Material>{}	0
+Comparator	public int compare(A a, A b){return a.getId() - b.getId()}	0
+TreeMap	private TreeMap<Integer, Member> treeMap;	0
+익명내부클래스	return new Runnable() {}	0
+람다식	return s -> syso(s);	0
+스트림	fis = new FileInputStream("input.txt");	0
+예외처리	try{fis.close}catch(IOException e){e.printStackTrace();}	0
+예외처리미루기	throws FileNotFoundException, ClassNotFoundException 	0
+스트림	fis = new FileInputStream("input.txt");	0
